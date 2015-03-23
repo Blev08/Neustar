@@ -1,6 +1,6 @@
 # Project was compiled using Java 7 and JUnit 4.
 
-To Import:
+***To Import***:
 
 1) in Eclipse go to File -> Import
 
@@ -9,8 +9,11 @@ To Import:
 3) Select Clone Existing URI and hit Next
 
 4) Enter the following into the fields:
+    
     URI: https://github.com/Blev08/Neustar.git
+    
     Host: github.com
+    
     Repository Path: /Blev08/Neustar.git
     
     Make sure the connection is HTTPS
@@ -26,7 +29,7 @@ To Import:
 
 The Neustar project should now be in your Package Explorer.
 
-Alternate - Import From File System:
+***Alternate - Import From File System***:
 
 1) Download the project as a zip.
 
@@ -59,7 +62,7 @@ Alternate - Import From File System:
 The project should be successfully imported into the project you created in step 5.  
 There should be one package - Neustar, located under the src folder with two classes: Neustar.java and NeustarTest.java.
 
-To Run:
+***To Run:***
 
 1) Copy and Paste the three included input files, input.txt, blank.txt and long.txt into a convenient location.  For Example: C:\input\.
 
