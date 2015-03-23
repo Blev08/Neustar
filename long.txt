@@ -1,0 +1,64 @@
+PERSON Bob Jones
+
+PLACE Washington
+
+PERSON Mary
+
+COMPUTER Mac
+
+PERSON Bob Jones
+
+OTHER Tree
+
+ANIMAL Dog
+
+PLACE Texas
+FOOD Steak
+ANIMAL Cat
+PIZZA pizza
+PERSON Captain America
+OTHER pizza
+GIBER gibberish
+PERSON Randall
+PERSON Ann
+PERSON Bill
+PLACE Philadelphia
+PLACE Boston
+PLACE New York
+CAR camero
+PLACE New York
+PERSON Ina
+ANIMAL Dog
+PERSON Bill
+ANIMAL duck
+TIME second
+ANIMAL horse
+PERSON Bowser
+PLACE Rome
+PERSON Link
+TIME second
+PERSON Walter White
+OTHER Mountain
+OTHER river
+PERSON Captain America
+OTHER tornado
+OTHER snow
+OTHER spring
+TIME second
+TIME minute
+PLACE New York
+CAR mazda
+CAR camero
+RECIPE apple pie
+PLACE Seattle
+PERSON Link
+PLACE Austin
+PLACE Rome
+PLACE Vienna
+PERSON Thor
+PERONS Spider-Man
+PIZZA pepperoni
+SANDWICH ham and cheese
+PERSON King Arthur
+CASTLE Arundal Castle
+SWORD Excalibir
